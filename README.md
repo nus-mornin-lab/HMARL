@@ -11,8 +11,8 @@ This Repository contains all the codes used in the paper titled 'Demystifying Co
 - `data` : dir to save output data
 - `sql` : data extraction sql codes using MIMIC-IV database. Run the query and save results to data dir with the same name of the queries respectively.
 - `preprocessing` : read multiple extracted data tables from sql codes, and save processed data results to data dir
-- `HMARL_Discrete` : Discrete action space implementation of algorithm, neural networks, `setting.py` containing all hyperparameters.
-- `HMARL_Continuous` : Continuous action space implementation of algorithm, neural networks, `setting.py` containing all hyperparameters.
+- `main_discrete` : Discrete action space implementation of algorithm, neural networks, `setting.py` containing all hyperparameters.
+- `main_continuous` : Continuous action space implementation of algorithm, neural networks, `setting.py` containing all hyperparameters.
 
 ## Training
 Extract data from MIMIC-IV database, perform the preprocessing code `preprocess_4h_mimic.py` and save the processed data to `data` dir
