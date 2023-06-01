@@ -1,5 +1,5 @@
 # HMARL
-This Repository contains all the codes used in the paper titled 'Demystifying Complex Treatment Recommendations: A Hierarchical Cooperative Multi-Agent RL Approach' published in IJCNN 2023 conference.
+This Repository contains all the codes and relavant resources for the paper titled 'Demystifying Complex Treatment Recommendations: A Hierarchical Cooperative Multi-Agent RL Approach' published in IJCNN 2023 conference.
 Please cite the paper.
 
 ## Prerequisites
